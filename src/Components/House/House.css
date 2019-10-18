@@ -1,0 +1,11 @@
+#house{
+    height: 100px;
+    /* width: 400px; */
+    display: block;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+
+}
